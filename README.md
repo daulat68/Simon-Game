@@ -13,3 +13,6 @@ The Simon Game is a classic memory game where players must repeat a sequence of 
 2. Follow the sequence of colors displayed by the game by clicking the corresponding buttons.
 3. If you successfully repeat the sequence, the game will add a new color to the sequence.
 4. If you make a mistake, the game ends, and your score will be displayed.
+
+## Visit Site
+https://daulat68.github.io/Simon-Game/
